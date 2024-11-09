@@ -7,13 +7,13 @@
 
 > **Warning**: This script is not for trading with permission. 
 
-<h1 align="center">kinflux bot God v2 - MultiDevice</h1>
+<h1 align="center">bencool v5 bot - MultiDevice</h1>
 <p align="center">
   <a href="https://github.com/diggilly"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=kinflux+bot+God+v2+MultiDevice;The+stable+version+whatsApp+bot;Developed+by+kinflux~digital;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
 </p>
 
 <p align="center">
- <a href="#"><img title="kinflux_bot_God" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="bencool-v5-sc" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/diggilly"><img title="Author" src="https://img.shields.io/badge/AUTHOR  ben digital-green.svg?style=for-the-badge&logo=github"></a>
@@ -31,7 +31,7 @@ BENCOOL-V5-SC
 
 ## ```Tap Here For Help ⛩️``` 
   <a href="https://wa.me/254105324632">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/diggilly/kinflux_bot_God/blob/main/Guru.jpg" />
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="" />
   
     
     
@@ -45,7 +45,7 @@ BENCOOL-V5-SC
 
 ## ```fork the repo first Here```
            
-<a href='https://github.com/diggilly/kinflux_bot_god_v2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Whitbotworld/bencool-v5/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
   
 
