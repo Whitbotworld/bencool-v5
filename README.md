@@ -1,4 +1,4 @@
-[![-----------------------------------------------------](https://github.com/diggilly/kinflux_bot_God/blob/main/Guru.jpg)](#table-of-contents)
+[![-----------------------------------------------------]()](#table-of-contents)
 <p align="center">
     <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
@@ -16,29 +16,29 @@
  <a href="#"><img title="kinflux_bot_God" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/diggilly"><img title="Author" src="https://img.shields.io/badge/AUTHOR-kinflux digital-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/diggilly"><img title="Author" src="https://img.shields.io/badge/AUTHOR  ben digital-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
-## kinflux-bot-God is a powerfull Multi Device whatsapp bot. ⚡️ Lightning-Fast Responses: 300 feutures and many more
+## BENCOOL-V5-SC is a powerfull Multi Device whatsapp bot. ⚡️ Lightning-Fast Responses: 500 feutures and many more
 
 
 
 ```
-kinflux bot God v2
+BENCOOL-V5-SC
 ```
 
 ---------
 
 ## ```Tap Here For Help ⛩️``` 
-  <a href="https://wa.me/2541100777535?text=Hello%20zamzack254%20sir...%20I%20need%20some%20help%20in%20kinflux_bot_God%20v2">
+  <a href="https://wa.me/254105324632">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/diggilly/kinflux_bot_God/blob/main/Guru.jpg" />
   
-    Tap here for contact me on WhatsApp Messenger 🎐
+    
     
   <a href="My email: kinfluxdigital@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   
-    My email Adress : kinfluxdigital@gmail.com 🎐
+    
      
     
 
