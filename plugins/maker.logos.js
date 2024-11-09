@@ -31,7 +31,7 @@ switch (type) {
 	conn.sendFile(m.chat, wo, 'logo.png', `✅ Result`, m)
 	m.react(done)
 	break 
-	case 'phlogo': 
+	case 'ben': 
 	if (!text) throw too
 	if (!text.includes('+')) throw too  
 	let [a, b] = text.split`+`   
