@@ -1,6 +1,6 @@
 [![-----------------------------------------------------]()](#table-of-contents)
 <p align="center">
-    <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpghttps://l.instagram.com/?u=https%3A%2F%2Ftelegra.ph%2Ffile%2Fd93c7f4e71866ccbc1089.jpg&e=AT3YUtpvVmDzkrKbHzAuKlMNFWqh-yvE7ZgdAhtzFn7MfVZn3ojtiRgHEp9FirCl_xgxLXp6vCGZ6NYP0RE2EJ3y-sY4PLp-E5Z1B4w&s=1" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="./https://telegra.ph/file/d93c7f4e71866ccbc1089.jpghttps://l.instagram.com/?u=https%3A%2F%2Fhttps://telegra.ph/file/d93c7f4e71866ccbc1089.jpg&e=AT3YUtpvVmDzkrKbHzAuKlMNFWqh-yvE7ZgdAhtzFn7MfVZn3ojtiRgHEp9FirCl_xgxLXp6vCGZ6NYP0RE2EJ3y-sY4PLp-E5Z1B4w&s=1" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## IMPORTANT
@@ -21,6 +21,8 @@
 ---------
 ## BENCOOL-V5-SC is a powerfull Multi Device whatsapp bot. ⚡️ Lightning-Fast Responses: 500 feutures and many more
 
+follow channel for updates 
+"Follow the 🆅🅰🅽🅸🆂🅷    🆃🅴🅲🅷 channel on WhatsApp: https://whatsapp.com/channel/0029VaCO5Y56GcGH7ecVWH2I"
 
 
 ```
@@ -87,8 +89,8 @@ BENCOOL-V5-SC
 
  Run the following commands to clone the repo (Use your fork)
  ```SH
-> git clone https://github.com/diggilly/kinflux_bot_god_v2
-> cd kinflux_bot_god_v2
+> git clone https://github.com/Whitbotworld/bencool-v5
+> cd bencool-v5-sc
  ```
 
  Run this following command to install the dependencies 
