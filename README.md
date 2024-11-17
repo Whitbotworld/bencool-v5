@@ -1,6 +1,6 @@
 [![-----------------------------------------------------]()](#table-of-contents)
 <p align="center">
-    <img src="./https://telegra.ph/file/d93c7f4e71866ccbc1089.jpghttps://l.instagram.com/?u=https%3A%2F%2Fhttps://telegra.ph/file/d93c7f4e71866ccbc1089.jpg&e=AT3YUtpvVmDzkrKbHzAuKlMNFWqh-yvE7ZgdAhtzFn7MfVZn3ojtiRgHEp9FirCl_xgxLXp6vCGZ6NYP0RE2EJ3y-sY4PLp-E5Z1B4w&s=1" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="./https://github.com/diggilly/kinflux_bot_god_v2?tab=readme-ov-file#table-of-contentshttps://l.instagram.com/?u=https%3A%2F%2Fhttps://telegra.ph/file/d93c7f4e71866ccbc1089.jpg&e=AT3YUtpvVmDzkrKbHzAuKlMNFWqh-yvE7ZgdAhtzFn7MfVZn3ojtiRgHEp9FirCl_xgxLXp6vCGZ6NYP0RE2EJ3y-sY4PLp-E5Z1B4w&s=1" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## IMPORTANT
@@ -10,7 +10,7 @@
 <h1 align="center">bencool v5 bot - MultiDevice</h1>
 <p align="center">
   <a href="https://github.com/diggilly"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=kinflux+bot+God+v2+MultiDevice;The+stable+version+whatsApp+bot;Developed+by+kinflux~digital;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
-</p>
+</p>https://photos.app.goo.gl/XrE3ae6w2dYunTkR7
 
 <p align="center">
  <a href="#"><img title="bencool-v5-sc" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
