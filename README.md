@@ -5,7 +5,7 @@
 
 ## IMPORTANT
 
-> **Warning**: This script is not for trading with permission. 
+> **Warning**: This script is not for trading without permission. 
 
 <h1 align="center">bencool v5 bot - MultiDevice</h1>
 <p align="center">
